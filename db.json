@@ -25,51 +25,51 @@
   "products": [
     {
       "id": 1,
-      "name": "LED display",
-      "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
-      "price": 92,
+      "name": "Mouse Logitech G102 Lightsync",
+      "description": "Este mouse cu fir cu lungimea cablului de 2.1m",
+      "price": 999,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+      "photo_url": "img/mouse logitech.webp"
     },
     {
       "id": 2,
-      "name": "Arduino UNO",
-      "description": "Brand new and high quality.",
-      "price": 180,
+      "name": "Mouse HyperX Pulsefire FPS PRO",
+      "description": "Este mouse cu fir cu lungimea cablului de 1.8m",
+      "price": 1399,
       "author_id": 3,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+      "photo_url": "img/mouse hyperX.webp"
     },
     {
       "id": 3,
-      "name": "ESP8266 5V",
-      "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
-      "price": 300,
+      "name": "Mouse Glorious Model O",
+      "description": "Este mouse cu fir cu lungimea cablului de 2m",
+      "price": 1799,
       "author_id": 2,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
+      "photo_url": "img/mouse glorious.webp"
     },
     {
       "id": 4,
-      "name": "RGB",
-      "description": "Can make color party.",
-      "price": 92,
+      "name": "Tastatură A4Tech Bloody B760",
+      "description": "Tastatura cu 104 butoane si lungimea cablului de 1.8m",
+      "price": 999,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+      "photo_url": "img/tastatura bloody.webp"
     },
     {
       "id": 5,
-      "name": "Resistor 10k Ohm",
-      "description": "Can resist the voltage. Super cool.",
-      "price": 180,
+      "name": "Tastatură HyperX Alloy Core RGB",
+      "description": "Tastatura cu 104 butoane si lungimea cablului de 1.8m",
+      "price": 1599,
       "author_id": 3,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/resistor.png"
+      "photo_url": "img/tastatura hyperX.webp"
     },
     {
       "id": 6,
-      "name": "7-Segment Display",
-      "description": "Epic.",
-      "price": 300,
+      "name": "Tastatură Canyon Nightfall CND-SKB7",
+      "description": "Tastatura cu 104 butoane si lungimea cablului de 1.6m",
+      "price": 1299,
       "author_id": 2,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
+      "photo_url": "img/tastatura canyon.webp"
     }
   ]
 }
